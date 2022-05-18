@@ -14,7 +14,7 @@ ms-api-login-dal-0.0.1-SNAPSHOT.jar
 
 ## instrucciones de construcción y ejecución del proyecto
 
-Abrir terminal dentro del directorio (/02.-fuentes/ms-api-login-dal/), ejecutar las siguientes lineas de comando:
+Abrir terminal dentro del directorio /02.-fuentes/ms-api-login-dal, ejecutar las siguientes lineas de comando:
 
 **Compilar fuentes y ejecutar test unitarios: ./gradlew build 
 
